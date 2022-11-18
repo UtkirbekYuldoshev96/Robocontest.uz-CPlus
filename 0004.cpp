@@ -7,7 +7,6 @@ int Galam(int n, int p){
     z = n * p;
     cout<< "Siz xaridingiz summasi : "<<z<<" so'm"<<endl;
 }
-
 int main()
 {
     int a,b;
